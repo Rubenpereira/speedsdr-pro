@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #022c22; 
+}
+::-webkit-scrollbar-thumb {
+  background: #15803d; 
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #22c55e; 
+}
+
+body {
+  background-color: #051005;
+  color: #4ade80;
+  overflow: hidden;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "SpeedSDR Pro",
+  "description": "Interface web de protótipo para o software SpeedSDR Pro. Simula o controle de um rádio SDR com visualização de espectro, cachoeira e plugins.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

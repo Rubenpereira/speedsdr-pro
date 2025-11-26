@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.exe
+*.dll
+*.obj
+*.lib
+*.exp
+*.bin
+backend/test.bin
+backend_backup_20251124_200900/
+zadig-2.9.exe
